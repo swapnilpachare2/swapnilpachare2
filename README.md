@@ -39,4 +39,4 @@ class Swapnil {
 let me = new Swapnil("MERN Stack");
 ```
 <h3>Follow Me on Github</h3>
-https://github.com/swapnilpachare2?tab=repositories
+<a href="https://github.com/swapnilpachare2?tab=repositories">GITHUB Profile</a>
