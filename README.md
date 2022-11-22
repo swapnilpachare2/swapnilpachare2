@@ -40,3 +40,6 @@ let me = new Swapnil("MERN Stack");
 ```
 <h3>Follow Me on Github</h3>
 <a href="https://github.com/swapnilpachare2?tab=repositories">GITHUB Profile</a>
+<div align="center">
+  <img src="Gradients.png" alt="Footer">
+</div>
