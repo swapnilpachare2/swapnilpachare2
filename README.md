@@ -7,7 +7,7 @@
 <h3 align="center">Hey there, I’m Swapnil Pachare<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
 
 <div align="center">
-  I'm a <strong>Student</strong> and <strong> Web Developer</strong> who is ✨ passionate ✨ about computer science. I'm making projects or learning something just about every day. Here on my GitHub you'll find my amazing projects :)
+  I'm a <strong>Student of Vidarbha Institute of Technology Nagpur</strong> and I'm a <strong> Web Developer</strong> who is ✨ passionate ✨ about computer science. I'm making projects or learning something just about every day. Here on my GitHub you'll find my amazing projects :)
 </div>
 
 <hr>
@@ -38,8 +38,11 @@ class Swapnil {
 }
 let me = new Swapnil("MERN Stack");
 ```
-<h3>Follow Me on Github</h3>
+<h3>Follow Me on Github 👇</h3>
 <a href="https://github.com/swapnilpachare2?tab=repositories">GITHUB Profile</a>
+
+<hr>
+
 <div align="center">
   <img src="Gradients.png" alt="Footer">
 </div>
