@@ -1,8 +1,4 @@
-<img src="Rainbow.gif" width="100%">
 
-<div align="center">
-  <img src="sappu.JPG" alt="Profile Picture">
-</div>
 
 <h3 align="center">Hey there, I’m Swapnil Pachare<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
 
@@ -42,7 +38,3 @@ let me = new Swapnil("MERN Stack");
 <a href="https://github.com/swapnilpachare2?tab=repositories">GITHUB Profile</a>
 
 <hr>
-
-<div align="center">
-  <img src="Gradients.png" alt="Footer">
-</div>
